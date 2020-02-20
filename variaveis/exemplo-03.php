@@ -15,11 +15,13 @@ $nascimento = new DateTime();
 
 //var_dump($nascimento);
 ////////////////////////////////////////////
-$arquivo = fopen("exemplo-03.php", "r");
+$arquivo = fopen("exemplo-03.php", "r"); //fopen — Abre um arquivo ou URL
 
 //var_dump($arquivo);
 
 $nulo = NULL;
 $vazio = "";
+
+echo $nome." ".$email."<br/>"."<b>nascimento</b>"." ".$ano;
 
 ?>
