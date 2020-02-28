@@ -19,7 +19,7 @@ $nomeCompleto .= "$pais"."<br/><br/>";
 
 echo $nomeCompleto;
 
-//Utilizado a 3º forma - utilizando chaves para concatenar
+//Utilizado a 3º forma - utilizando chaves para concatenar (recomendado quando se inserem variáveis mais complexas como arrays)
 $nomeCompleto = $nome;
 $nomeCompleto .= $sobrenome;
 $nomeCompleto .= $email;
