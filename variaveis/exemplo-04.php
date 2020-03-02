@@ -1,12 +1,7 @@
 <?php
-//Um array associativo de variáveis passadas para o script atual via o método HTTP GET
-$nome = $_GET["a"];
-
-//echo $nome;
-//var_dump($nome);
-
 /*
 Documentação:
+https://www.php.net/manual/pt_BR/reserved.variables.get.php
 https://www.php.net/manual/pt_BR/reserved.variables.server
 $_SERVER é um array contendo informação como cabeçalhos, paths,
  e localizações do script. As entradas neste array são criadas pelo servidor web. 
@@ -22,6 +17,13 @@ Contém o caminho completo do script atual. Útil para páginas que precisam apo
  (dinamicamente). A constante __FILE__ contém o caminho completo e nome do arquivo (mesmo incluído) atual.
 
   */
+//Um array associativo de variáveis passadas para o script atual via o método HTTP GET
+$nome = $_GET["a"];
+
+//echo $nome;
+//var_dump($nome);
+
+
 //$ip = $_SERVER["REMOTE_ADDR"];
 $ip = $_SERVER["SCRIPT_NAME"];
 echo $ip;

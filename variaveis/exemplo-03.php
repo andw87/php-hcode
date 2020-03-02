@@ -1,4 +1,5 @@
 <?php
+//https://www.php.net/manual/pt_BR/language.types.array.php
 
 $nome = "Anderson";
 $email = "anderson.awbf@gmail.com";
