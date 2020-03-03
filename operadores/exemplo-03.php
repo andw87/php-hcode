@@ -1,6 +1,6 @@
 <?php
-//Operadores aritiméticos
-//https://www.php.net/manual/pt_BR/language.operators.arithmetic.php
+//Operadores aritiméticos - https://www.php.net/manual/pt_BR/language.operators.arithmetic.php
+
 /*Exemplo	Nome	Resultado
 +$a	Identidade	Conversão de $a para int ou float conforme apropriado.
 -$a	Negação	Oposto de $a.

@@ -1,6 +1,6 @@
 <?php
-//Operadores de atribuição
-//https://www.php.net/manual/pt_BR/language.operators.assignment.php
+//Operadores de atribuição - https://www.php.net/manual/pt_BR/language.operators.assignment.php
+
 /*
 $a += $b     $a = $a + $b    Addition
 $a -= $b     $a = $a - $b     Subtraction

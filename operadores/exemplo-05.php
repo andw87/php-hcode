@@ -1,7 +1,7 @@
 <?php
-//https://www.php.net/manual/pt_BR/migration70.new-features.php
+//Operador "nave espacial" (spaceship) ¶ - https://www.php.net/manual/pt_BR/migration70.new-features.php
+
 /*
-Operador "nave espacial" (spaceship) ¶
 O operador nave espacial é utilizado para comparar duas expressões. 
 Ele retorna -1, 0 ou 1 quando $a for respectivamente menor que,
  igual a ou maior que $b. As comparações são feitas de acordo 

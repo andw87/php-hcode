@@ -1,7 +1,8 @@
 <?php
 //Operadores de comparação
-//https://www.php.net/manual/pt_BR/language.operators.comparison.php
-//https://www.php.net/manual/pt_BR/language.expressions.php
+
+//https://www.php.net/manual/pt_BR/language.operators.comparison.php - https://www.php.net/manual/pt_BR/language.expressions.php
+
 /*Operadores de comparação, como os seus nomes implicam, permitem que você compare dois valores.
  Você pode se interessar em ver as tabelas de comparação de tipos, que tem exemplo das várias comparações entre tipos relacionadas.
  */

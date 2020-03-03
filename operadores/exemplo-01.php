@@ -1,6 +1,8 @@
 <?php
-//Operadores de atribuição
-//https://www.php.net/manual/pt_BR/language.operators.assignment.php
+//Operadores de atribuição - https://www.php.net/manual/pt_BR/language.operators.assignment.php
+
+/*O operador básico de atribuição é "=". A sua primeira inclinação deve ser a de pensar nisto como "é igual". 
+Não. Isto quer dizer, na verdade, que o operando da esquerda recebe o valor da expressão da direita (ou seja, "é definido para"). */
 
 $nome = "Anderson";
 
