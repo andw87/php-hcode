@@ -1,4 +1,6 @@
 <?php
+//https://www.php.net/manual/pt_BR/language.operators.string.php
+
 //Declaração de Variáveis
 $nome = "Anderson";
 $sobrenome = "Wladis Borges Ferreira";
