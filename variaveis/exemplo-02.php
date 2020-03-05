@@ -11,7 +11,7 @@ $nomeCompleto = $nome." ".$sobreNome; //concatenação
 echo $nomeCompleto;
 
 exit;
-echo "<br/>"; //HTML - quebra-de-linha entre ""
+echo "<br>"; //HTML - quebra-de-linha entre ""
 echo $anoNascimento;
 
 //unset($nomeCompleto); //unset — Destrói a variável especificada
