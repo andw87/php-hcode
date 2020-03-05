@@ -1,5 +1,6 @@
 <?php
 //https://www.php.net/manual/pt_BR/intro.json.php
+//https://www.w3schools.com/php/php_ref_json.asp
 
 //Esta extensão implementa o formato de troca de dados » JavaScript Object Notation (JSON). A decodificação é feita por um parser baseado no JSON_checker de Douglas Crockford.
 $pessoas = array();

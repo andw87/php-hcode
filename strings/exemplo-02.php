@@ -3,10 +3,10 @@
 $nome = "Anderson Wladis";
 echo $nome;
 echo "<br>";
-//https://www.php.net/manual/pt_BR/function.strtoupper.php
-echo strtoupper($nome);//Tudo para maiúscula
+
+echo strtoupper($nome);//Tudo para maiúscula https://www.php.net/manual/pt_BR/function.strtoupper.php
 echo "<br>";
-echo strtolower($nome);//Tudo para minúscula
+echo strtolower($nome);//Tudo para minúscula https://www.php.net/manual/pt_BR/function.strtolower.php
 echo "<br>";
-echo ucwords($nome);//primeira letra maiúscula
+echo ucwords($nome);//primeira letra maiúscula https://www.php.net/manual/pt_BR/function.ucwords.php
 ?>

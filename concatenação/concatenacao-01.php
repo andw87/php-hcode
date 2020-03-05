@@ -1,6 +1,11 @@
 <?php
 //https://www.php.net/manual/pt_BR/language.operators.string.php
 
+//Lembrete HTML:
+// O <b> tag especifica o texto em negrito sem qualquer importância extra. 
+//O <br> tag insere uma única quebra de linha.
+//Contexto: https://www.w3schools.com/tags/tag_br.asp - https://www.w3schools.com/tags/tag_b.asp
+
 //Declaração de Variáveis
 $nome = "Anderson";
 $sobrenome = "Wladis Borges Ferreira";

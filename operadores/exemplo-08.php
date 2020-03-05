@@ -1,4 +1,7 @@
 <?php
+//https://www.php.net/manual/pt_BR/language.operators.precedence.php
+
+
 $resultado = 10 + 3 / 2;
 echo $resultado."<br>";
 $resultado = (10 + 3) / 2;
