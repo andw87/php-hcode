@@ -14,13 +14,20 @@ class Endereco{
         
     }
     public function __destruct(){
-        var_dump("DESTRUIR");
+        //var_dump("DESTRUIR");
+    }
+    public function __toString(){
+        return $this->logradouro.",".$this->numero." - ".$this->cidade;
     }
 
 }
-$meuEndereco = new Endereco("Rua Afonso Pena","101","Campo Grande");
+$meuEndereco = new Endereco("Av Afonso Pena","101","Campo Grande");
+/*
 var_dump($meuEndereco);
 
 unset($meuEndereco);
+*/
+
+echo$meuEndereco;
 
 ?>
